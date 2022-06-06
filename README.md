@@ -13,4 +13,18 @@ Screen :
 
 ========================================================
 
+requirments : 
+
+-python
+
+python modules :
+
+-colorama
+-os
+-sleep
+-tqdm
+
+========================================================
 How to download : 
+1.	Download the code
+2.	open "start.bat"
