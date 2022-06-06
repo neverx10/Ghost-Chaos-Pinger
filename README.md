@@ -26,5 +26,6 @@ python modules :
 
 ========================================================
 How to download : 
-1.	Download the code
-2.	open "start.bat"
+1.	Download The IP pinger via the versions
+2.	Extract the file
+3.	Open "start.bat"
