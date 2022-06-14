@@ -29,7 +29,7 @@ for item in progressbar:
     progressbar.set_description(' Loading... ')
 
 os.system("cls")
-os.system("title Ghost Chaos pinger By gh0st CHAOS#6511")
+os.system("title Ghost Chaos pinger By NeverX#1724")
 print(f"""{Fore.GREEN}
 
 
